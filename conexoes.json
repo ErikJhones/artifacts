@@ -1,0 +1,69 @@
+{
+    "RECORDS": [
+        {
+            "competencia_1_x_competencia_2": {
+                "abaixo_abaixo": "Pessoas desorganizadas e com baixa capacidade de planejamento tendem a agir por impulso, não analisam e nem planejam a situação corretamente e podem se perder por falta de organização. Esse é um traço comum no topo da hierarquia. Isso pode causar má impressão aos líderes.",
+                "acima_abaixo": "Geralmente quem é “desorganizado”, planeja em excesso para compensar essa dificuldade"
+            },
+            "competencia_8_x_competencia_9": {
+                "abaixo_acima": "A dificuldade para se trabalhar com prazos e pressão leva a pessoa a trabalhar em excesso para compensar essa limitação",
+                "ideal_ideal": "Pessoa ágil com alta produtividade. ",
+                "acima_acima": "Pessoa precipitada é viciada em trabalho."
+            },
+            "competencia_2_x_competencia_8_x_competencia_9": {
+                "ideal_ideal_ideal": "Pessoas eficazes: são organizadas, trabalham rápido e têm alta produtividade."
+            },
+            "competencia_14_x_competencia_15": {
+                "abaixo_acima": "Profissional que é reprimido e evita conflitos. Tem fortes tendências a ter doenças psicossomáticas.  Mas lembrem-se, a energia da raiva é empreendedora. Cada pessoa possui características que precisam ser pesquisadas.",
+                "ideal_acima": "tem ótima capacidade de enfrentar conflitos, mas reprime suas emoções.  Mas lembrem-se, a energia da raiva é empreendedora. Cada pessoa possui características que precisam ser pesquisadas.",
+                "acima_abaixo": "explode fácil, o que pode causar desdobramentos negativos em sua imagem pessoal. Possui muitos problemas de relação interpessoais.  Mas lembrem-se, a energia da raiva é empreendedora. Cada pessoa possui características que precisam ser pesquisadas."
+            },
+            "competencia_15_x_competencia_16": {
+                "acima_abaixo": "O profissional que faz concessão em excesso (não sabe dizer não para as pessoas em quem mais confia) e possui “pavio curto”, provavelmente está estabelecendo relações simbióticas e mantendo jogos psicológicos",
+                "abaixo_acima": "O profissional que revela 'pavio curto' e está com dificuldade para dizer 'não' para as pessoas que mais ama geralmente está estabelecendo relações simbióticas e mantendo jogos psicológicos prejudiciais."
+            },
+            "competencia_1_x_competencia_2_x_competencia_11": {
+                "abaixo_abaixo_abaixo": "Planejamento e a Organização estão muito deficitários a Capacidade de Priorizar atenua ambos. Mas como os três estão ruins, a pessoa terá muita dificuldade para se organizar e atingir metas.",
+                "abaixo_abaixo_ideal": "Planejamento e a Organização estão muito deficitários, então sua Capacidade de Priorizar atenua ambos",
+                "abaixo_abaixo_acima": "Planejamento e a Organização estão muito deficitários, então sua Capacidade de Priorizar atenua ambos"
+
+            },
+            "competencia_3_x_competencia_4": {
+                "abaixo_ideal": "A Liderança Coach e a Liderança Motivacional se complementam. Contudo, é mais difícil desenvolver a Liderança Coach, porque o brasileiro foi educado a motivar e não a desenvolver pessoas. Mas se ao menos uma destas competências já estiver na média, para a posição de liderança, já é um bom resultado."
+            },
+            "competencia_3_x_competencia_5": {
+                "abaixo_ideal": "Um bom resultado na Capacidade de Comunicação favorece a Liderança Coach, porque quem informa bem desenvolve pessoas.",
+                "ideal_ideal": "Um bom resultado na Capacidade de Comunicação favorece a Liderança Coach, porque quem informa bem desenvolve pessoas.",
+                "acima_ideal": "Um bom resultado na Capacidade de Comunicação favorece a Liderança Coach, porque quem informa bem desenvolve pessoas."
+            },
+            "competencia_3_x_competencia_7": {
+                "ideal_ideal": "Geralmente quem é bom Líder Coach, sabe delegar, (competência 7) mas as dicotomias ocorrem com os profissionais, pois existem muitas variáveis no processo, como equipe, por exemplo."
+            },
+            "competencia_2_x_competencia_8_x_competencia_11": {
+                "acima_abaixo_abaixo": "Geralmente o profissional que revela-se perfeccionista, apresenta dificuldades para lidar com Prazos e Pressão de Tempo e para lidar com Imprevistos e Emergências. E isso não impacta em sua capacidade de aceitar mudanças e inovações.",
+                "acima_abaixo_acima": "Geralmente o profissional que revela-se perfeccionista, apresenta dificuldades para lidar com Prazos e Pressão de Tempo e para lidar com Imprevistos e Emergências. E isso não impacta em sua capacidade de aceitar mudanças e inovações.",
+                "acima_aacima_abaixo": "Geralmente o profissional que revela-se perfeccionista, apresenta dificuldades para lidar com Prazos e Pressão de Tempo e para lidar com Imprevistos e Emergências. E isso não impacta em sua capacidade de aceitar mudanças e inovações.",
+                "acima_acima_acima": "Geralmente o profissional que revela-se perfeccionista, apresenta dificuldades para lidar com Prazos e Pressão de Tempo e para lidar com Imprevistos e Emergências. E isso não impacta em sua capacidade de aceitar mudanças e inovações."
+            },
+            "competencia_10_x_competencia_12": {
+                "ideal_abaixo": "Pessoas que revelam boa criatividade não devem trabalhar com assuntos rotineiros.",
+                "ideal_ideal": "Pessoas que revelam boa criatividade não devem trabalhar com assuntos rotineiros.",
+                "ideal_acima": "Pessoas que revelam boa criatividade não devem trabalhar com assuntos rotineiros.",
+                "acima_ideal": "A grande maioria dos brasileiros seguem normas em excesso em virtude de nossos modelos mentais. E isso não impacta em sua capacidade de aceitar mudanças e inovações e nem em usar de sua criatividade em assuntos pessoais."            
+            },
+            "competencia_6_x_competencia_14": {
+                "abaixo_abaixo": "",
+                "abaixo_ideal": "O profissional que sabe enfrentar conflitos geralmente sabe tomar decisões, porque toda decisão possui um conflito instalado. Mas sabe enfrentar conflitos, mas não possui autonomia para tomar decisões",
+                "ideal_ideal": "O profissional que sabe enfrentar conflitos geralmente sabe tomar decisões, porque toda decisão possui um conflito instalado.",
+                "acima_ideal": "O profissional que sabe enfrentar conflitos geralmente sabe tomar decisões, porque toda decisão possui um conflito instalado."
+            },
+            "competencia_11_x_competencia_19": {
+                "abaixo_acima": "O profissional que revela alta energia vital e está com dificuldade de foco geralmente não está atingindo metas e está sentindo-se desmotivado ou subaproveitado."
+            },
+            "competencia_11_x_competencia_20": {
+                "abaixo_abaixo": "O profissional que revela falta de foco e concentração e está revelando-se subaproveitado geralmente não está atingindo metas e está sentindo-se desmotivado"
+            }
+             
+        }
+    ]
+}

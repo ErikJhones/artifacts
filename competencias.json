@@ -1,0 +1,144 @@
+{
+  "RECORDS": [
+    {
+      "ordem": 1,
+      "competencias_id": 1,
+      "descricao": "Capacidade de planejamento",
+      "descricao_en": "Planning capacity",
+      "descricao_es": "Capacidad de planificación"
+    },
+    {
+      "ordem": 2,
+      "competencias_id": 2,
+      "descricao": "Capacidade de organização",
+      "descricao_en": "Organization capacity",
+      "descricao_es": "Capacidad de organización"
+    },
+    {
+      "ordem": 3,
+      "competencias_id": 3,
+      "descricao": "Liderança COACH",
+      "descricao_en": "COACH Leadership",
+      "descricao_es": "COACH Liderazgo "
+    },
+    {
+      "ordem": 4,
+      "competencias_id": 4,
+      "descricao": "Liderança Motivacional",
+      "descricao_en": "Motivational Leadership",
+      "descricao_es": "Liderazgo de Motivación"
+    },
+    {
+      "ordem": 5,
+      "competencias_id": 5,
+      "descricao": "Estilo de comunicação",
+      "descricao_en": "Communication style",
+      "descricao_es": "Estilo de comunicación"
+    },
+    {
+      "ordem": 6,
+      "competencias_id": 6,
+      "descricao": "Tomada de decisão",
+      "descricao_en": "Decision making",
+      "descricao_es": "Toma de decisiones"
+    },
+    {
+      "ordem": 7,
+      "competencias_id": 7,
+      "descricao": "Capacidade de delegação",
+      "descricao_en": "Delegation capacity",
+      "descricao_es": "Capacidad de delegación"
+    },
+    {
+      "ordem": 8,
+      "competencias_id": 8,
+      "descricao": "Administração do tempo",
+      "descricao_en": "Time administration",
+      "descricao_es": "Gestión del Tiempo"
+    },
+    {
+      "ordem": 9,
+      "competencias_id": 9,
+      "descricao": "Volume de trabalho",
+      "descricao_en": "Workload",
+      "descricao_es": "Carga de trabajo"
+    },
+    {
+      "ordem": 10,
+      "competencias_id": 10,
+      "descricao": "Potencial criativo",
+      "descricao_en": "Creative potential",
+      "descricao_es": "Potencial creativo"
+    },
+    {
+      "ordem": 11,
+      "competencias_id": 11,
+      "descricao": "Capacidade de Priorização e Imprevistos",
+      "descricao_en": "Ability to prioritize and work with unforeseen",
+      "descricao_es": "Capacidad de priorizar y trabajar con imprevista"
+    },
+    {
+      "ordem": 12,
+      "competencias_id": 15,
+      "descricao": "Gestão de mudanças",
+      "descricao_en": "Change management",
+      "descricao_es": "Gestión del cambio"
+    },
+    {
+      "ordem": 13,
+      "competencias_id": 12,
+      "descricao": "Relacionamento com superiores",
+      "descricao_en": "Relationship with superiors",
+      "descricao_es": "Relación con los jefes"
+    },
+    {
+      "ordem": 14,
+      "competencias_id": 13,
+      "descricao": "Gestão de conflitos",
+      "descricao_en": "Conflict management",
+      "descricao_es": "Gestión de conflictos"
+    },
+    {
+      "ordem": 15,
+      "competencias_id": 14,
+      "descricao": "Controle das emoções",
+      "descricao_en": "Emotions management",
+      "descricao_es": "Control de las emociones"
+    },
+    {
+      "ordem": 16,
+      "competencias_id": 16,
+      "descricao": "Relações de confiança",
+      "descricao_en": "Trusting relationships",
+      "descricao_es": "Relaciones de confianza"
+    },
+    {
+      "ordem": 17,
+      "competencias_id": 18,
+      "descricao": "Relacionamento em grupos",
+      "descricao_en": "Group relationship",
+      "descricao_es": "Relación en grupos "
+    },
+    {
+      "ordem": 18,
+      "competencias_id": 17,
+      "descricao": "Imagem pessoal",
+      "descricao_en": "Personal image",
+      "descricao_es": "Imagen personal"
+    },
+    {
+      "ordem": 19,
+      "competencias_id": 19,
+      "descricao": "Tônus vital",
+      "descricao_en": "Vital tone",
+      "descricao_es": "Tono Vital"
+    },
+    {
+      "ordem": 20,
+      "competencias_id": 20,
+      "descricao": "Necessidade de realização",
+      "descricao_en": "Realization necessity",
+      "descricao_es": "Necesidad de realización"
+    }
+  ]
+}
